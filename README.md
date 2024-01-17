@@ -1,6 +1,7 @@
 # Heights_weights-Project
 The data that we must be careful of is small-sized data, and here you must deal with it with caution and precision and demonstrate your skills in analyzing and dealing with it. Here I deal with small and simple data, but carefully .
 ----------------------------
+One of the university subject projects
 
 I read the file easily using the read_csv method and displayed the first 5 rows to see it and understand its features, then I checked the statistical description of the dataset using the describe method to explore the summary statistics and understand more about the data.
 
